@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment-1</string>
+    <string name="button_corner">28dp</string>
+    <string name="button_height">72dp</string>
+    <string name="button_width">72dp</string>
+    <string name="margin_start">28dp</string>
+    <string name="button_text">28dp</string>
+    <string name="margin_top">10dp</string>
+
+</resources>
